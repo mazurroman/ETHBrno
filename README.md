@@ -1,3 +1,3 @@
 # ETHBrno
 
-Sample project for ETHBrno. Not intended for production use.
+Sample project for ETHBrno 2022. Not intended for production use.
