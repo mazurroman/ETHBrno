@@ -1,0 +1,27 @@
+{
+  "name": "ethbrno",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.13",
+    "@web3-onboard/core": "^2.10.0",
+    "@web3-onboard/injected-wallets": "^2.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wido": "^0.0.35"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.3"
+  }
+}
